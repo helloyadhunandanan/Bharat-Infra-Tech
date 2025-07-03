@@ -13,8 +13,8 @@ This repository is the **hub for all my India-focused infrastructure tech projec
 
 ##  Projects in this Series:
 
-| Project | Status | Live Demo | Live Demo |
-|---|---|---|---|
+| Project | Status | Live Demo |
+|---|---|---|
 | **[Indian Expressway Tracker 🛣️](https://github.com/YourUsername/indian-expressway-tracker)** | ✅ In Progress | [Live Demo](https://YourLiveLink) |
 | **[Infra Dashboard 📊](https://github.com/YourUsername/infra-dashboard)** | ⏳ Coming Soon | _TBD_ |
 | **[Metro Rail Timeline 🚇](https://github.com/YourUsername/metro-timeline)** | ⏳ Coming Soon | _TBD_ |
